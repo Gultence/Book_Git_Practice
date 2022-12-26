@@ -3,3 +3,6 @@ writing new words
 for new story
 
 more things to come
+
+
+editor: java has new story
