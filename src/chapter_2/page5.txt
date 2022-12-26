@@ -1,3 +1,6 @@
 new chapter new story
 
 starts new chapter
+
+
+editor : learning updating respority
