@@ -2,3 +2,5 @@ Hello world
 welcome to my story
 
 there was a boy
+
+.gitignore is not effective because page1 created before .gitignore
